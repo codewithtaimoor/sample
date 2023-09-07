@@ -40,7 +40,6 @@
                 <td>Taimoor Fiaz</td>
                 <td>ORIC</td>
                 <td>5180</td>
-                <td><img src="/IMG_20230517_111909.jpg" alt="not found" width="100" height="120"></td>
 
 
                 <tr>
@@ -48,8 +47,6 @@
 <td>Komal Fiaz</td>
 <td>HR </td>
 <td>4227 </td>
-<td><img src="/57624868_2314225552231791_5322360942497890304_n.jpg" alt="not found" width="100" height="120" ></td>
-
 
 
                 </tr>
